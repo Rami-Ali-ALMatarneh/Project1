@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+.Center {
+  padding: 0 50px 0 50px;
+  border: none;
+}
+footer {
+     background-color: aqua;
+}
